@@ -88,7 +88,7 @@ void kutServo()
 ```
 
 ## Kontakt
-Ovdje se nalaze naši kontakti rado ćemo vam odgovriti bilo koje pitanje koje imate o ovome projektu:
+Ovdje se nalaze naši kontakti rado ćemo vam odgovriti na bilo koje pitanje koje imate o ovome projektu:
 
 Dunja Šmigovec - dunja.smigovec@gmail.com
 
